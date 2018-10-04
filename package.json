@@ -55,7 +55,7 @@
     "appium-youiengine-driver": "1.x",
     "argparse": "^1.0.10",
     "async-lock": "^1.0.0",
-    "asyncbox": "2.x",
+    "asyncbox": "^2.5.1",
     "bluebird": "3.x",
     "continuation-local-storage": "3.x",
     "dateformat": "^3.0.3",
